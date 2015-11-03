@@ -1,0 +1,5 @@
+# BluetoothLE_001
+20151103
+
+Windows8.1で利用できるWinRTを使ったBluetoothLE通信用コンソールアプリです。
+Unityとの連携のため、Socket通信も行っています。
